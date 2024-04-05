@@ -10,7 +10,7 @@ Aos futuros cientistas de dados e desenvolvedores que me permitem exercer minha 
 - 🌱 Ajudar a moldar políticas públicas baseadas em dados rigorosos e análises estatísticas é onde também me encontro à disposição.
 - 👯 Estou aberto para colaborar em projetos acadêmicos, discussões e pesquisas que buscam entender e melhorar o impacto das políticas públicas através de métodos quantitativos avançados.
 - 💬 Vamos conversar sobre econometria, avaliação de políticas, análises de grandes bases de dados e tudo relacionado à recuperação de dados na web (desde que respitadas as normas de cada lugar).
-- 📫 Contate-me: [conhecimento@jpconhecimento.com.br; weslley.rodrigues@ceub.br]
+- 📫 Contate-me: [weslley.rodrigues@ceub.br]
 - ⚡ Curiosidade: Estou sempre buscando conectar teoria e prática, levando conhecimento científico para soluções pragmáticas nos setores público e privado.
 
 ## Meus Interesses
